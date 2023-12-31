@@ -8,7 +8,7 @@ Data Analysis project with SQL Workbench and Power Bi.
 
 **Data Cleaning & Analysis** - MySQL Workbench
 
-**Data Visualization**- Power Bi
+**Data Visualization**- Power Bi 
 
 
 **Questions**
